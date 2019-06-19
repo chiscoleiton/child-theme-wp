@@ -7,7 +7,7 @@ For example, if you need create a child theme for Twenty Nineteen Theme:
 ### CSS file
 
 ```
-[YourTheme]-Child   = Twenty Nineteen Child br
+[YourTheme]-Child   = Twenty Nineteen Child
 [YourURL]           = https://wordpress.org/themes/twentynineteen/
 [YourDescription]   = Our 2019 default theme is designed ...
 [yourtheme]         = twentynineteen
