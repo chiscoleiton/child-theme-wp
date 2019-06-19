@@ -2,7 +2,7 @@
 This is a base to create a child theme for any WordPress theme...
 
 ## How custom
-For example, if you need create a child theme for Twenty Nineteen Theme:
+For example, if you need create a child theme for Twenty Nineteen Theme only replace the following:
 
 ### CSS file
 
