@@ -20,7 +20,7 @@ For example, if you need create a child theme for Twenty Nineteen Theme:
 ### PHP file (functions)
 
 ```
-[your-theme]-style       = twentynineteen-style
+[yourtheme]-style       = twentynineteen-style
 [yourtheme]-child-style  = twentynineteen-child-style
 ```
 
